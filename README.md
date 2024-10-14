@@ -162,3 +162,11 @@ Since CakePHP 2.1.0 runs on PHP 5.x, you'll need the legacy MongoDB PHP driver, 
 ---
 
 By following these steps, you should have CakePHP 2.1.0 installed and connected to MongoDB on your local Windows machine. Let me know if you encounter any issues or need further assistance!
+
+
+
+
+. problem 
+
+**4.4.9**
+- Note: MongoDB version 4.4.9 has a critical issue, if you are running this version in production, please familiarize yourself with SERVER-77506, SERVER-82353, WT-10461 (if running on ARM64 or POWER system architectures), and WT-10551 (if relying on incremental backups on Ops Manager or Cloud Manager clusters) and consider upgrading to the latest version
