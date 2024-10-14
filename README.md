@@ -5,7 +5,7 @@ For installing **CakePHP 2.1.0** and **MongoDB** on **Windows**, follow these st
 ## **Step 1: Install XAMPP**
 
 1. **Download XAMPP**:
-   - Go to [XAMPP's official website]([https://www.apachefriends.org/index.html](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.40/)) and download the **XAMPP** installer for Windows (preferably with PHP 5.6 to match CakePHP 2.1.0 requirements).
+   - Go to [XAMPP's official website](https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/5.6.40/) and download the **XAMPP** installer for Windows (preferably with PHP 5.6 to match CakePHP 2.1.0 requirements).
    
 2. **Install XAMPP**:
    - Run the installer and follow the instructions to install it. Choose to install **Apache** and **MySQL** during the setup process.
