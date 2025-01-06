@@ -1,4 +1,5 @@
 (https://github.com/ADmad/CakeMongo.git)
+
 ** Unfortunately, it appears that the CakeMongo plugin is no longer maintained or available for newer versions of CakePHP, such as 2.6. The plugin you referred to is for CakePHP 5.x, and thus isn't compatible with your version of CakePHP*
 *
 
