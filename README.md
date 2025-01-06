@@ -1,3 +1,9 @@
+(https://github.com/ADmad/CakeMongo.git)
+** Unfortunately, it appears that the CakeMongo plugin is no longer maintained or available for newer versions of CakePHP, such as 2.6. The plugin you referred to is for CakePHP 5.x, and thus isn't compatible with your version of CakePHP*
+*
+
+
+
 For installing **CakePHP 2.1.0** and **MongoDB** on **Windows**, follow these steps. I'll guide you through the installation process using **XAMPP** for Apache, PHP, and MySQL, and also setting up **MongoDB** and its PHP driver.
 
 ---
